@@ -1,4 +1,5 @@
-[
+{
+ "cadastros":[
  {
         "proprietario": "Sofia Pereira ",
         "napto": "101 ",
@@ -15,3 +16,4 @@
         "nvaga": "20"
     }
 ]
+}
