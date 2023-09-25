@@ -1,0 +1,92 @@
+[
+    {
+        "proprietario": "Sofia Pereira ",
+        "napto": "101 ",
+        "bloco": "A",
+        "placa": "ABC-1234 ",
+        "modelo": "Toyota Camry ",
+        "cor": "Preto",
+        "nvaga": "10",
+        "": ""
+    },
+    {
+        "proprietario": "João Santos ",
+        "napto": "202 ",
+        "bloco": "B",
+        "placa": "XYZ-5678 ",
+        "modelo": "Ford Mustang ",
+        "cor": "Branco",
+        "nvaga": "20",
+        "": ""
+    },
+    {
+        "proprietario": "Ana Costa ",
+        "napto": "303 ",
+        "bloco": "C",
+        "placa": "DEF-9876 ",
+        "modelo": "Honda Civic ",
+        "cor": "Preto",
+        "nvaga": "15",
+        "": ""
+    },
+    {
+        "proprietario": "Miguel Silva ",
+        "napto": "404 ",
+        "bloco": "A",
+        "placa": "GHI-5432 ",
+        "modelo": "Chevrolet Silverado ",
+        "cor": "Azul",
+        "nvaga": "07",
+        "": ""
+    },
+    {
+        "proprietario": "Maria Rodrigues ",
+        "napto": "505 ",
+        "bloco": "A",
+        "placa": "JKL-3210 ",
+        "modelo": "Volkswagen Golf ",
+        "cor": "Verde",
+        "nvaga": "08",
+        "": ""
+    },
+    {
+        "proprietario": "Pedro Oliveira ",
+        "napto": "606 ",
+        "bloco": "B",
+        "placa": "MNO-4567 ",
+        "modelo": "BMW X5 ",
+        "cor": "Prata",
+        "nvaga": "11",
+        "": ""
+    },
+    {
+        "proprietario": "Inês Ferreira ",
+        "napto": "707 ",
+        "bloco": "C",
+        "placa": "QRS-7890 ",
+        "modelo": "Audi A4 ",
+        "cor": "Prata",
+        "nvaga": "02",
+        "": ""
+    },
+    {
+        "proprietario": "Diogo Carvalho ",
+        "napto": "808 ",
+        "bloco": "C",
+        "placa": "TUV-2345 ",
+        "modelo": "Mercedes-Benz C-Class ",
+        "cor": "Branco",
+        "nvaga": "18",
+        "": ""
+    },
+    {
+        "proprietario": "Carolina Sousa ",
+        "napto": "909 ",
+        "bloco": "B",
+        "placa": "WXY-8765 ",
+        "modelo": "Nissan Rogue ",
+        "cor": "Preto",
+        "nvaga": "19",
+        "": ""
+    }
+]
