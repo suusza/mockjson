@@ -4,39 +4,35 @@
         "napto": "101 ",
         "bloco": "A",
         "placa": "ABC-1234 ",
-        "nvaga": "10",
-        "": ""
+        "nvaga": "10"
+
     },
     {
         "proprietario": "João Santos ",
         "napto": "202 ",
         "bloco": "B",
         "placa": "XYZ-5678 ",
-        "nvaga": "20",
-        "": ""
+        "nvaga": "20"
     },
     {
         "proprietario": "Ana Costa ",
         "napto": "303 ",
         "bloco": "C",
         "placa": "DEF-9876 ",
-        "nvaga": "15",
-        "": ""
+        "nvaga": "15"
     },
     {
         "proprietario": "Miguel Silva ",
         "napto": "404 ",
         "bloco": "A",
         "placa": "GHI-5432 ",
-        "nvaga": "07",
-        "": ""
+        "nvaga": "07"
     },
     {
         "proprietario": "Maria Rodrigues ",
         "napto": "505 ",
         "bloco": "A",
         "placa": "JKL-3210 ",
-        "nvaga": "08",
-        "": ""
+        "nvaga": "08"
     },
 ]
