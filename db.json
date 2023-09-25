@@ -39,36 +39,4 @@
         "nvaga": "08",
         "": ""
     },
-    {
-        "proprietario": "Pedro Oliveira ",
-        "napto": "606 ",
-        "bloco": "B",
-        "placa": "MNO-4567 ",
-        "nvaga": "11",
-        "": ""
-    },
-    {
-        "proprietario": "Inês Ferreira ",
-        "napto": "707 ",
-        "bloco": "C",
-        "placa": "QRS-7890 ",
-        "nvaga": "02",
-        "": ""
-    },
-    {
-        "proprietario": "Diogo Carvalho ",
-        "napto": "808 ",
-        "bloco": "C",
-        "placa": "TUV-2345 ",
-        "nvaga": "18",
-        "": ""
-    },
-    {
-        "proprietario": "Carolina Sousa ",
-        "napto": "909 ",
-        "bloco": "B",
-        "placa": "WXY-8765 ",
-        "nvaga": "19",
-        "": ""
-    }
 ]
