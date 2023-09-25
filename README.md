@@ -1,2 +1,2 @@
 # mockjson
-fake data for testing
+To get fake data for testing
