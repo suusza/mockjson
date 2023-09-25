@@ -6,4 +6,14 @@
         "modelo": "Toyota Camry ",
         "cor": "Preto",
         "nvaga": "10"
+    },
+
+    {
+        "proprietario": "João Santos ",
+        "napto": "202 ",
+        "bloco": "B",
+        "placa": "XYZ-5678 ",
+        "modelo": "Ford Mustang ",
+        "cor": "Branco",
+        "nvaga": "20"
     }
