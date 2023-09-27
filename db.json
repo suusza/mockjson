@@ -2,7 +2,7 @@
  "cadastros":[
  {
         "proprietario": "Sofia Pereira ",
-        "napto": "101 ",
+        "napto": "101",
         "bloco": "A",
         "placa": "ABC-1234 ",
         "nvaga": "10"
@@ -10,11 +10,9 @@
   
     {
         "proprietario": "Disponível ",
-        "napto": " ",
-        "bloco": " ",
-        "placa": " ",
-        "modelo": " ",
-        "cor": " ",
+        "napto": null,
+        "bloco": null,
+        "placa": null,
         "nvaga": "07"
     }     
    ]
