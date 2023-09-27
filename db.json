@@ -10,7 +10,7 @@
   
     {
         "proprietario": "Sofia João ",
-        "napto": "",
+        "napto": null,
         "bloco": "A",
         "placa": "ABC-1114 ",
         "nvaga": "11"
