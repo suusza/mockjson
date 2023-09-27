@@ -16,15 +16,6 @@
         "nvaga": "20"
     }
 
-  {
-        "proprietario": "Ana Costa ",
-        "napto": "303 ",
-        "bloco": "C",
-        "placa": "DEF-9876 ",
-        "modelo": "Honda Civic ",
-        "cor": "Preto",
-        "nvaga": "15"
-    },
     {
         "proprietario": "Disponível ",
         "napto": " ",
@@ -51,25 +42,7 @@
         "modelo": "BMW X5 ",
         "cor": "Prata",
         "nvaga": "11"
-    },
-    {
-        "proprietario": "Disponível ",
-        "napto": " ",
-        "bloco": " ",
-        "placa": " ",
-        "modelo": " ",
-        "cor": " ",
-        "nvaga": "02"
-    },
-    {
-        "proprietario": "Diogo Carvalho ",
-        "napto": "808 ",
-        "bloco": "C",
-        "placa": "TUV-2345 ",
-        "modelo": "Mercedes-Benz C-Class ",
-        "cor": "Branco",
-        "nvaga": "18"
-    },
+    },    
     {
         "proprietario": "Disponível ",
         "napto": " ",
