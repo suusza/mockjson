@@ -14,7 +14,14 @@
         "bloco": "A",
         "placa": "ABC-1114 ",
         "nvaga": "11"
-    }     
+    },
+    {
+        "proprietario": "Disponível",
+        "napto": "606 ",
+        "bloco": "B",
+        "placa": "MNO-4567",
+        "nvaga": "15"
+    }
   
    ]
 }
