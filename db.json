@@ -14,7 +14,7 @@
         "bloco": "B",
         "placa": "XYZ-5678 ",
         "nvaga": "20"
-    }
+    },
 
     {
         "proprietario": "Disponível ",
@@ -24,25 +24,8 @@
         "modelo": " ",
         "cor": " ",
         "nvaga": "07"
-    },
-    {
-        "proprietario": "Maria Rodrigues ",
-        "napto": "505 ",
-        "bloco": "A",
-        "placa": "JKL-3210 ",
-        "modelo": "Volkswagen Golf ",
-        "cor": "Verde",
-        "nvaga": "08"
-    },
-    {
-        "proprietario": "Pedro Oliveira ",
-        "napto": "606 ",
-        "bloco": "B",
-        "placa": "MNO-4567 ",
-        "modelo": "BMW X5 ",
-        "cor": "Prata",
-        "nvaga": "11"
-    },    
+    }, 
+     
     {
         "proprietario": "Disponível ",
         "napto": " ",
