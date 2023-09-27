@@ -15,5 +15,69 @@
         "placa": "XYZ-5678 ",
         "nvaga": "20"
     }
+
+  {
+        "proprietario": "Ana Costa ",
+        "napto": "303 ",
+        "bloco": "C",
+        "placa": "DEF-9876 ",
+        "modelo": "Honda Civic ",
+        "cor": "Preto",
+        "nvaga": "15"
+    },
+    {
+        "proprietario": "Disponível ",
+        "napto": " ",
+        "bloco": " ",
+        "placa": " ",
+        "modelo": " ",
+        "cor": " ",
+        "nvaga": "07"
+    },
+    {
+        "proprietario": "Maria Rodrigues ",
+        "napto": "505 ",
+        "bloco": "A",
+        "placa": "JKL-3210 ",
+        "modelo": "Volkswagen Golf ",
+        "cor": "Verde",
+        "nvaga": "08"
+    },
+    {
+        "proprietario": "Pedro Oliveira ",
+        "napto": "606 ",
+        "bloco": "B",
+        "placa": "MNO-4567 ",
+        "modelo": "BMW X5 ",
+        "cor": "Prata",
+        "nvaga": "11"
+    },
+    {
+        "proprietario": "Disponível ",
+        "napto": " ",
+        "bloco": " ",
+        "placa": " ",
+        "modelo": " ",
+        "cor": " ",
+        "nvaga": "02"
+    },
+    {
+        "proprietario": "Diogo Carvalho ",
+        "napto": "808 ",
+        "bloco": "C",
+        "placa": "TUV-2345 ",
+        "modelo": "Mercedes-Benz C-Class ",
+        "cor": "Branco",
+        "nvaga": "18"
+    },
+    {
+        "proprietario": "Disponível ",
+        "napto": " ",
+        "bloco": " ",
+        "placa": " ",
+        "modelo": " ",
+        "cor": " ",
+        "nvaga": "19"
+    }
 ]
 }
