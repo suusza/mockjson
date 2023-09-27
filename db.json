@@ -7,20 +7,33 @@
         "placa": "ABC-1234 ",
         "nvaga": "10"
     },
-  
     {
-        "proprietario": "Sofia João ",
+        "proprietario": "João Santos ",
+        "napto": "202 ",
+        "bloco": "B",
+        "placa": "XYZ-5678 ",
+        "nvaga": "20"
+    },
+     {
+        "proprietario": "Disponível",
         "napto": null,
-        "bloco": "A",
-        "placa": "ABC-1114 ",
-        "nvaga": "11"
+        "bloco": null,
+        "placa": null,
+        "nvaga": "18"
+    };
+    {
+        "proprietario": "Ana Costa ",
+        "napto": "303 ",
+        "bloco": "D",
+        "placa": "DEF-9876 ",
+        "nvaga": "15"
     },
     {
         "proprietario": "Disponível",
-        "napto": "606 ",
-        "bloco": "B",
-        "placa": "MNO-4567",
-        "nvaga": "15"
+        "napto": null,
+        "bloco": null,
+        "placa": null,
+        "nvaga": "18"
     }
   
    ]
