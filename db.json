@@ -7,15 +7,7 @@
         "placa": "ABC-1234 ",
         "nvaga": "10"
     },
-
-    {
-        "proprietario": "João Santos ",
-        "napto": "202 ",
-        "bloco": "B",
-        "placa": "XYZ-5678 ",
-        "nvaga": "20"
-    },
-
+  
     {
         "proprietario": "Disponível ",
         "napto": " ",
@@ -26,14 +18,5 @@
         "nvaga": "07"
     }, 
      
-    {
-        "proprietario": "Disponível ",
-        "napto": " ",
-        "bloco": " ",
-        "placa": " ",
-        "modelo": " ",
-        "cor": " ",
-        "nvaga": "19"
-    }
-]
+   ]
 }
