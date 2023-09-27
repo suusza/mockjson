@@ -9,11 +9,11 @@
     },
   
     {
-        "proprietario": "Disponível ",
-        "napto": null,
-        "bloco": null,
-        "placa": null,
-        "nvaga": "07"
+        "proprietario": "Sofia João ",
+        "napto": "101",
+        "bloco": "A",
+        "placa": "ABC-1234 ",
+        "nvaga": "10"
     }     
    ]
 }
